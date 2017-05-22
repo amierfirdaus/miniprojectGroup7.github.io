@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 <div class="container">
 
-<h1 class="title">Contact</h1>
+<h1 class="title">My Contact</h1>
 
 
 <!-- form -->
